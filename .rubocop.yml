@@ -1,6 +1,7 @@
 AllCops:
   Exclude:
     - bin/*
+    - vendor/**/*
 
 # Bumping max line length to something a little more reasonable (RubyMine default)
 
