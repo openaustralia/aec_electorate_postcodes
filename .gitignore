@@ -1,2 +1,10 @@
 # Ignore output of scraper
 data.sqlite
+data.sqlite-journal
+
+# Ignore bundler config and locally installed gems
+/.bundle
+/vendor/bundle
+
+# Test coverage reports
+/coverage
